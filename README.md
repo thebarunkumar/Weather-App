@@ -1,6 +1,10 @@
-# Weather-App
+<h1 align="center"><b>Weather App</b></h1>
 
+<h1 align="center"><b>
+  
 ![weatherReact](https://github.com/thebarunkumar/Weather-App/assets/77458180/f810e6c9-85ad-4216-8ae7-79943117bcac)
+    
+</b></h1>
 
 
 The objective of this project is to develop a web application that utilizes the Open Weather Map API to present weather forecasts. Users can search for specific locations worldwide. Additionally, the application will automatically determine the user's current location (with location permission) and display comprehensive weather information.
